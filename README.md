@@ -3,7 +3,7 @@
 The [DigitalCorpora.org](https://digitalcorpora.org) Team is providing a huge
 amount of digital corpora for use in computer forensics research.
 
-At http://downloads.digitalcorpora.org/corpora/files/govdocs1/threads/ you can
+At [http://downloads.digitalcorpora.org/corpora/files/govdocs1/threads](http://downloads.digitalcorpora.org/corpora/files/govdocs1/threads/) you can
 find and download zip files containing distinct sets of around 1000 files each. This is a
 useful dataset for benchmarking processing speed.
 
