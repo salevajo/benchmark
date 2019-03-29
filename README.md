@@ -1,6 +1,6 @@
 # Create a test dataset for benchmarking
 
-The (DigitalCorpora.org)[https://digitalcorpora.org/] Team is providing a huge
+The [DigitalCorpora.org](https://digitalcorpora.org) Team is providing a huge
 amount of digital corpora for use in computer forensics research.
 
 At http://downloads.digitalcorpora.org/corpora/files/govdocs1/threads/ you can
