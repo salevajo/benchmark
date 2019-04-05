@@ -19,6 +19,7 @@ Use `fetch.sh` to get all files:
 
 ```shell
 #!/bin/bash
+cd data
 for i in {0..9}
 do
    echo "Downloading thread$i.zip"
